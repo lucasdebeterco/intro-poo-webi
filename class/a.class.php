@@ -1,5 +1,4 @@
 <?php
-
     class a {
         private $url;
         private $texto;
